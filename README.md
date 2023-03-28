@@ -42,7 +42,7 @@ http://10.101.83.103:3000/d/rYdddlPWk/frizz85-dashboard?orgId=1
 
 ![file](img/1.JPG)
 
-./docker-compose.yml - файл установки
-./prometheus.yml - настройки Prometheus
-./node-exporter-full_rev30.json - настройка dashbord Grafana
-
+1. ./docker-compose.yml - файл установки для разворачивания системы
+2. ./prometheus.yml - настройки Prometheus
+3. ./node-exporter-full_rev30.json - настройка dashbord Grafana
+4. ./node-exporter.yml - настройка node-exporter
